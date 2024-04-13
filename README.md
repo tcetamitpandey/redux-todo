@@ -8,3 +8,6 @@ create slice to initalize the state initial value and reducers are also collecte
 
 useSelector -: to get data(state) from store 
 usedispatch -: to change the state using reducers fuctions 
+
+
+refer : https://redux-toolkit.js.org/tutorials/quick-start
